@@ -30,7 +30,7 @@ Check it from the "Issues" tab.
 
 # If you want to Open (VS Code);
 
-1. To see VS Code instructions, switch to the "release-vs.code" brach.
+
 
 # Lisance
 

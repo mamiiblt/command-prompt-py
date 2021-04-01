@@ -16,6 +16,8 @@ The program stores your language data in a file named "languageSettings.mqs". Th
 
 The project was created with "PyCharm Communty Edition 2020.3.4" but Visual Studio Code etc. It is also suitable to develop with IDE's.
 
+// If you want to get more detailed information about the project, you can check it from the "Issues" tab.
+
 # If you want to Open (PyCharm);
 
 1. Open PyCharm

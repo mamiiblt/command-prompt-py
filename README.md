@@ -16,19 +16,12 @@ The program stores your language data in a file named "languageSettings.mqs". Th
 
 The project was created with "PyCharm Communty Edition 2020.3.4" but Visual Studio Code etc. It is also suitable to develop with IDE's.
 
-# If you want to open PyCharm;
+# If you want to Open (PyCharm);
 
 1. Open PyCharm
 2. Click Open Project or File > Open Project.
 3. Extract the files you extracted from zip to a folder and select the folder with Open.
 4. After a little wait, WorkSpace is ready!
-
-# If you want to open VS Code
-
-1. Open VS Code
-2. Click Fİle > Open Folder
-3. Extract the files you extracted from zip to a folder and select the folder with Open.
-4. WorkSpace is ready!
 
 ----
 

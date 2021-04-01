@@ -25,6 +25,10 @@ The project was created with "PyCharm Communty Edition 2020.3.4" but Visual Stud
 
 ----
 
+# If you want to Open (VS Code);
+
+1. To see VS Code instructions, switch to the "release-vs.code" brach.
+
 # Lisance
 
 http://mqsftp.gq/command-prompt-py (Lisance Type : Apache License)

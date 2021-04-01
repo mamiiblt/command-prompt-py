@@ -30,6 +30,11 @@ Check it from the "Issues" tab.
 
 # If you want to Open (VS Code);
 
+1. Open VS Code
+2.File> Open Folder
+3. Extract the files in the downloaded zip to the folder, select the folder.
+4. You can start editing the codes with the Inculde> py-console.py file.
+5. WorkSpace is ready!
 
 
 # Lisance

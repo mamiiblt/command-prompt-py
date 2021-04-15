@@ -39,4 +39,4 @@ Check it from the "Issues" tab.
 
 # Lisance
 
-http://mqsftp.gq/command-prompt-py (Lisance Type : Apache License)
+http://mqsftp.gq/license/apache-license.txt (Lisance Type : Apache License)
